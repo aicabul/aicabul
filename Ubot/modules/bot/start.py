@@ -80,15 +80,15 @@ async def start_(client: Client, message: Message):
     ADMIN2 = ADMIN2_ID[0]
     await message.reply_text(
         f"""<b>👋 Halo {message.from_user.first_name} \n
-💭 Selamat Datang di Amang Userbot.</b>""",
+💭 Selamat Datang di Userbot.</b>""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="Repo", url=f"https://github.com/amanqs/AmangUbot"),
+                    InlineKeyboardButton(text="Repo", url=f"https://github.com/aicabul/userbot"),
                     InlineKeyboardButton(text="Support", url=f"https://t.me/amwangsupport"),
                 ],
                 [
-                    InlineKeyboardButton(text="Deploy", url=f"https://dashboard.heroku.com/new?template=https://github.com/amanqs/AmangUbot"),
+                    InlineKeyboardButton(text="Deploy", url=f"https://dashboard.heroku.com/new?template=https://github.com/aicabul/aicabul"),
                 ],
 		[
                      InlineKeyboardButton(text="Tutup", callback_data="cl_ad"),
@@ -189,7 +189,7 @@ async def usage_dynos(client, message):
     AppMinutes = math.floor(AppQuotaUsed % 60)
     await asyncio.sleep(1.5)
     text = f"""
-**Penggunaan Dyno AmangUbot**
+**Penggunaan Dyno Userbot**
 
  ❏ Dyno terpakai:
  ├ Terpakai: `{AppHours}`**h**  `{AppMinutes}`**m**  [`{AppPercentage}`**%**]
