@@ -29,7 +29,7 @@ BOT_VER ="8.1.0"
 
 
 MSG_ON = """
-**Amang Userbot Actived ✅**
+**Userbot Actived ✅**
 ╼┅━━━━━━━━━━╍━━━━━━━━━━┅╾
 ◉ **Versi** : `{}`
 ◉ **Phython** : `{}`
