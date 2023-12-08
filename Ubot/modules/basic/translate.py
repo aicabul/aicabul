@@ -8,7 +8,6 @@ Code By:
 import os
 from pyrogram import filters, Client
 from pyrogram.types import Message
-from py_trans import Async_PyTranslator
 from ubotlibs.ubot.helper.utility import get_arg
 from . import *
 
