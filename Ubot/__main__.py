@@ -41,7 +41,7 @@ MSG_ON = """
 
 async def main():
     await app.start()
-    LOGGER("Amang Ubot").info("Memulai Amang Ubot..")
+    LOGGER("Amang Ubot").info("Memulai Userbot..")
     for all_module in ALL_MODULES:
         importlib.import_module("Ubot.modules" + all_module)
     for bot in bots:
