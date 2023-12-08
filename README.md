@@ -1,15 +1,9 @@
-<p align="center">
-
-<img src="https://telegra.ph/file/eb49b1b2bbce82f54e918.jpg">
-
-</p>
-
 ## Multi Client Support Hingga 15 User
 
 
 ## Deploy Di Heroku
 <h3 align="center">Click The Button</h3>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/amanqs/AmangUbot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/aicabul/aicabul"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 </div>
 
 
@@ -26,3 +20,6 @@
 - PyroMAN           - Tomi Setiawan
 
 - RamPyro-Bot       - Xtsea
+
+
+# kanger by [aicabul](http://github.com/aicabul)
