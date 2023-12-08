@@ -3,7 +3,7 @@
     "description": "Nothing Speciall !!!.",
     "logo": "https://telegra.ph/file/eb49b1b2bbce82f54e918.jpg",
     "keywords": ["telegram", "userbot", "pyrogram"],
-    "repository": "https://github.com/amanqs/AmangUbot",
+    "repository": "https://github.com/aicabul/aicabul",
     "stack": "container",
     "env": {
         "SESSION1": {
@@ -71,7 +71,7 @@
     "formation": {
         "worker": {
           "quantity": 1,
-          "size": "basic"
+          "size": "eco"
         }
       }
   }
