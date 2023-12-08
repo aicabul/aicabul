@@ -84,7 +84,6 @@ async def start_(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="Repo", url=f"https://github.com/aicabul/userbot"),
                     InlineKeyboardButton(text="Support", url=f"https://t.me/amwangsupport"),
                 ],
                 [
