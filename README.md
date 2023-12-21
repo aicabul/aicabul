@@ -2,14 +2,14 @@
 
 
 ## Deploy Di Heroku
-<h3 align="center">Click The Button</h3>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/aicabul/aicabul"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+<h3 align="left">Click The Button</h3>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/aicabul/ubot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 </div>
 
 
 ## Disarankan Mengambil String Session Pyrogram v2 di https://t.me/AmangRobot
 
-## Credit 💖
+## Credit 
 
 - Zaid Userbot      - Geez Projects
 
